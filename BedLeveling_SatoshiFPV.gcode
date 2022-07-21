@@ -1,4 +1,4 @@
-;3D Printer Bed leveling (220x220 to 235x235 max) by SatoshiFPV
+;3D Printer Bed leveling (220x220 to 235x235 max) by iyotee
 ;Licence: Attribution-NonCommercial-ShareAlike
 ;V 2.1 / FR version
 
