@@ -77,7 +77,6 @@ G1 Z0
 G04 P300;
 M0 Appuyer pour continuer ; Pause print
 
-
 M117 Leveling done !;
 G04 P2000;
 M117 By SatoshiFPV - FPVM;
